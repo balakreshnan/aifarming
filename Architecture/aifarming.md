@@ -1,4 +1,4 @@
-# Msonitor vegetable garden and use AI
+# Monitor vegetable garden and use AI
 
 ## Watch your vegetable garden and use AI to watch for plant health
 
